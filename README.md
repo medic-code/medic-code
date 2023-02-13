@@ -3,7 +3,7 @@
 I'm a former NHS Clinician, MSc Clinical Educator and Software Developer. 
 
 - 🔭 I’m currently working on building a product in the ophthalmology space get in touch for more details!
-- 🌱 I’m currently learning about NextJS and using to enhance sharing of knowledge
+- 🌱 I’m currently learning about NextJS and using it to enhance sharing of knowledge
 - 👯 I’m looking to collaborate on any open source healthcare probjects involving data and web development
 - 💬 Ask me about data, healthcare technology, all things bread and music!
 - 📫 How to reach me: email me at aaronsmith1@tutanota.com
