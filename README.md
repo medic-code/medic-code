@@ -9,5 +9,6 @@ I'm a former NHS Clinician, MSc Clinical Educator and Software Developer.
 - 📫 How to reach me: email me at aaronsmith1@tutanota.com
 - ⚡ Weird fact: I have a rare fusion of teeth which is called syndontia 
 
+#### Music I'm listening to
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1115434818&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
