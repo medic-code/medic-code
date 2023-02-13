@@ -1,6 +1,6 @@
 ### Hi there I'm Aaron 👋
 
-I'm a former NHS Clinician, MSc Clinical Educator and Software Developer. 
+A former NHS Clinician, MSc Clinical Educator and Software Developer. 
 
 - 🔭 I’m currently working on building a product in the ophthalmology space get in touch for more details!
 - 🌱 I’m currently learning about NextJS and using it to enhance sharing of knowledge
